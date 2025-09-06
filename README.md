@@ -1,4 +1,6 @@
-﻿# Dr-AI
+﻿![CI](https://github.com/Asheermogal/Dr-AI/actions/workflows/ci-node.yml/badge.svg)
+
+# Dr-AI
 
 ## Overview
 Brief description.
@@ -12,4 +14,5 @@ How to run.
 
 ---
 © 2025 Asheer Mogal — All rights reserved.
+
 
