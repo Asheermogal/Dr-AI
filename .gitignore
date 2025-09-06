@@ -13,3 +13,6 @@ Thumbs.db
 *.tar
 *.gz
 *.exe
+
+node_modules/
+
